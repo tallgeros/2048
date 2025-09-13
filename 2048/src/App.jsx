@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 import Board from './components/Board';
 import ScoreBoard from './components/ScoreBoard';
+<<<<<<< HEAD
 import { move, addRandomTile, canMove, initBoard, boardToTiles } from './game/Logica-jsx';
+=======
+import { move, addRandomTile, canMove, initBoard, boardToTiles } from './game/Logica';
+>>>>>>> b69a74ee4f3ecea2b477f32a7d26ad548b031ff0
 import './App.css';
 
 export default function App() {
