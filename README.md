@@ -13,6 +13,4 @@ El objetivo del juego es combinar fichas con el mismo número para llegar al **2
 
 ---
 
-<p align="center">
-<img src="public/portada.png" width="400">
-</p>
+
