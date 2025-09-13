@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import './board.css';
 import Tile from './Tile';
-import { GRID_SIZE } from '../game/logica';
+import { GRID_SIZE } from '../game/Logica-jsx';
 
 const BOARD_PADDING = 8;      // 🔸 asegúrate que exista y esté bien escrito
 const GAP = 6;
