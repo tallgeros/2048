@@ -1,11 +1,17 @@
-# React + Vite
+# 🎮 Juego 2048 en React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una versión del clásico **2048**, desarrollado con React y Vite.  
+El objetivo del juego es combinar fichas con el mismo número para llegar al **2048** (¡o más si quieres seguir jugando!).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🕹️ ¿Cómo se juega?
+- Usa las **flechas del teclado** (⬆️⬇️⬅️➡️) para mover las fichas.
+- Cuando dos fichas con el mismo número se tocan, se **fusionan en una nueva ficha** con el valor sumado.
+- Cada movimiento genera una nueva ficha en el tablero.
+- El juego termina cuando ya no hay más movimientos posibles.
+
+---
 
 ![Portada](src/assets/portada.png)
 
