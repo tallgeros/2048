@@ -14,5 +14,5 @@ El objetivo del juego es combinar fichas con el mismo número para llegar al **2
 ---
 
 <p align="center">
- <img src="./portada.png" width="400">
+ <img src="https://github.com/tallgeros/2048/blob/main/portada.png" width="400">
 </p>
