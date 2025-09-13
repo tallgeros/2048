@@ -10,11 +10,14 @@ El objetivo del juego es combinar fichas con el mismo número para llegar al **2
 - Cuando dos fichas con el mismo número se tocan, se **fusionan en una nueva ficha** con el valor sumado.
 - Cada movimiento genera una nueva ficha en el tablero.
 - El juego termina cuando ya no hay más movimientos posibles.
+
+---
+
 <p align="center">
-  <img src="2048/src/assets
-/Captura de pantalla 2025-09-13 103721.png
-g" width="400">
+  <img src="src/assets/Captura.png" width="400">
 </p>
+
+---
 
 
 ---
